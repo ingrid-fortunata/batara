@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "fullName": "json-server",
+      "description": "this is json-server"
+    },
+    {
+      "fullName": "werw",
+      "description": "werqweqwe",
+      "id": 2
+    }
+  ]
+}
